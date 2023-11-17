@@ -13,8 +13,6 @@ public class Teacher extends Person {
         return specialization;
     }
 
-
-
     @Override
     public boolean canUseServices() {
         return true;
